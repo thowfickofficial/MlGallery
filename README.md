@@ -1,7 +1,7 @@
 # MLGallery
 
 ## Description
-"MLGallery" is a curated collection of innovative machine learning projects, showcasing a diverse range of applications and algorithms. Whether you're a beginner looking to explore the possibilities of machine learning or an experienced developer seeking inspiration for your next project, MLGallery offers a variety of projects to spark your creativity and expand your skills.
+"MLGallery" is a curated collection of innovative machine learning projects, showcasing a diverse range of applications and algorithms. 
 
 ## Projects
 
